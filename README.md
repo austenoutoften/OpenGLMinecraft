@@ -1,3 +1,5 @@
+This was my submissing for COMP2004 (v.1) Computer Graphics At Curtin. The assignment task was to make a scene with at least 8 different textures and 2 unique animations. I got 100#.
+
 OpenGL Minecraft Scene
 
 Author: Austin Bevacqua
